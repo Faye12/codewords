@@ -1,7 +1,4 @@
 # Code Words
-
-## Hi everyone, please make a pull request to edit this document if your name and repo is not here...
-
 ### Karen ann Donnachie | https://github.com/karenanndonnachie/C0DE-W0RD
 ### Andy Simionato | https://github.com/Simandy/codewords
 ## Student Gihub Repositories 2020
@@ -29,3 +26,4 @@
 ### Jackie Liu | https://github.com/jackieldesign/CODEWORDS
 ### Un ian | https://github.com/unianlai/codeword
 ### Amy Ledger | https://github.com/astlcreations/ohheybro
+### Faye |https://github.com/Faye12/CodeWord
